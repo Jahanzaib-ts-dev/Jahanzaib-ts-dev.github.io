@@ -1,0 +1,375 @@
+.game-watching-container {
+  min-height: 100vh;
+}
+
+.game-watching-game-watching {
+  width: 100%;
+  height: 1627px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(11, 12, 42, 1);
+}
+
+.game-watching-rectangle15 {
+  top: 176px;
+  left: 204px;
+  width: 1511px;
+  height: 975px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 102px;
+}
+
+.game-watching-group8 {
+  top: 947px;
+  left: 377px;
+  width: 676px;
+  height: 150px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+
+.game-watching-group6 {
+  top: 0px;
+  left: 0px;
+  width: 207px;
+  height: 39px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(217, 217, 217, 1);
+}
+
+.game-watching-text {
+  top: 9px;
+  left: 6px;
+  color: rgba(225, 53, 54, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.game-watching-group7 {
+  top: 0px;
+  left: 219px;
+  width: 110px;
+  height: 39px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(217, 217, 217, 1);
+}
+
+.game-watching-text02 {
+  top: 9px;
+  left: 9px;
+  color: rgba(225, 53, 54, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.game-watching-text04 {
+  top: 51px;
+  color: rgba(255, 255, 255, 1);
+  width: 676px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.game-watching-text06 {
+  top: 110px;
+  color: rgba(255, 255, 255, 1);
+  width: 648px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.game-watching-rectangle9 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 131px;
+  position: absolute;
+  border-color: transparent;
+}
+
+.game-watching-group5 {
+  top: 31px;
+  left: 1736px;
+  width: 114px;
+  height: 69.09091186523438px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+
+.game-watching-profile2 {
+  top: 0px;
+  left: 0px;
+  width: 69px;
+  height: 69px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 42px;
+}
+
+.game-watching-frameiconchevronbottom {
+  top: 27.349458694458008px;
+  left: 81.75757598876953px;
+  width: 32.24242401123047px;
+  height: 22.058204650878906px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+
+.game-watching-vector {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 22px;
+  position: absolute;
+}
+
+.game-watching-search-bar {
+  top: 38px;
+  left: 582px;
+  width: 822.0714111328125px;
+  height: 51px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(11, 12, 42, 1);
+}
+
+.game-watching-frameiconmagnifyingglass {
+  top: 8.262691497802734px;
+  left: 764.1401977539062px;
+  width: 37.24148941040039px;
+  height: 32.62529754638672px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+
+.game-watching-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 37px;
+  height: 33px;
+  position: absolute;
+}
+
+.game-watching-text08 {
+  top: 12.142857551574707px;
+  left: 31.724252700805664px;
+  color: rgba(156, 156, 156, 1);
+  width: 394px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.game-watching-text10 {
+  top: 15px;
+  left: 56px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Kaushan Script;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+
+.game-watching-s2 {
+  top: 2349px;
+  left: 378px;
+  width: 1163px;
+  height: 1296px;
+  position: absolute;
+  border-color: transparent;
+}
+
+.game-watching-rectangle12 {
+  top: 3693px;
+  left: 0px;
+  width: 1920px;
+  height: 86px;
+  position: absolute;
+  border-color: transparent;
+}
+
+.game-watching-ellipse1 {
+  top: 3634px;
+  left: 878px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  border-color: transparent;
+}
+
+.game-watching-c221 {
+  top: 1204px;
+  left: 326px;
+  width: 1267px;
+  height: 425px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 55px;
+}
+
+.game-watching-screenshot1791 {
+  top: 228px;
+  left: 347px;
+  width: 1225px;
+  height: 689px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+}
+
+.game-watching-profile21 {
+  top: 977px;
+  left: 1430px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 50px;
+}

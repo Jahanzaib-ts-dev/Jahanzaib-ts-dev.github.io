@@ -1,0 +1,497 @@
+.upload-game-container {
+  min-height: 100vh;
+}
+.upload-game-upload-game {
+  width: 100%;
+  height: 1617px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: rgba(11, 12, 42, 1);
+}
+.upload-game-top-bar {
+  height: 233px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.upload-game-frame51 {
+  width: 1920px;
+  height: 131px;
+  display: flex;
+  padding: 0 63px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: space-between;
+  background-color: rgba(7, 7, 32, 1);
+}
+.upload-game-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 70px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Kaushan Script;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.upload-game-search-bar {
+  display: flex;
+  padding: 8px 20px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgba(11, 12, 42, 1);
+}
+.upload-game-text02 {
+  color: rgba(156, 156, 156, 1);
+  width: 394px;
+  height: auto;
+  font-size: 17px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 338px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.upload-game-i-m-a-g-eiconmagnifyingglass {
+  width: 38px;
+  height: 33px;
+  position: relative;
+  border-color: transparent;
+}
+.upload-game-frame5 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.upload-game-profile2 {
+  width: 69px;
+  height: 69px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 13px;
+  border-radius: 42px;
+}
+.upload-game-i-m-a-g-eiconchevronbottom {
+  width: 33px;
+  height: 23px;
+  position: relative;
+  border-color: transparent;
+}
+.upload-game-body {
+  width: 1430px;
+  display: flex;
+  padding: 32px 101px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 102px 102px 0 0;
+  background-color: rgba(7, 7, 32, 1);
+}
+.upload-game-frame42 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 32px;
+  flex-direction: column;
+}
+.upload-game-frame421 {
+  display: flex;
+  padding: 19px 0;
+  position: relative;
+  align-items: flex-end;
+  border-color: transparent;
+  margin-bottom: 0px;
+}
+.upload-game-rectangle18 {
+  width: 6px;
+  height: 49px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 17px;
+}
+.upload-game-text04 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.upload-game-frame15 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.upload-game-frame44 {
+  width: 807px;
+  height: 115px;
+  display: flex;
+  padding: 10px 0 10px 42px;
+  position: relative;
+  box-sizing: content-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(195, 195, 195, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 20px;
+  margin-bottom: 53px;
+}
+.upload-game-text06 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.upload-game-frame45 {
+  width: 807px;
+  height: 115px;
+  display: flex;
+  padding: 10px 0 10px 42px;
+  position: relative;
+  box-sizing: content-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(195, 195, 195, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 20px;
+  margin-bottom: 53px;
+}
+.upload-game-text08 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.upload-game-frame46 {
+  width: 807px;
+  height: 115px;
+  display: flex;
+  padding: 10px 0 10px 42px;
+  position: relative;
+  box-sizing: content-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(195, 195, 195, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 20px;
+  margin-bottom: 53px;
+}
+.upload-game-text10 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.upload-game-frame47 {
+  width: 807px;
+  height: 115px;
+  display: flex;
+  padding: 42px 0 42px 42px;
+  position: relative;
+  box-sizing: content-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(195, 195, 195, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 20px;
+  margin-bottom: 53px;
+}
+.upload-game-text12 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.upload-game-frame48 {
+  width: 807px;
+  height: 557px;
+  display: flex;
+  padding: 30px 0 10px 42px;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(195, 195, 195, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 20px;
+}
+.upload-game-text14 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.upload-game-text15 {
+  text-decoration: UNDERLINE;
+}
+.upload-game-frame43 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.upload-game-frame20 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.upload-game-frame49 {
+  width: 173px;
+  height: 74px;
+  display: flex;
+  padding: 10px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 4px;
+  margin-bottom: 24px;
+  justify-content: center;
+  background-color: rgba(225, 53, 54, 1);
+}
+.upload-game-text20 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 19px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.upload-game-frame19 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.upload-game-rectangle13 {
+  width: 386px;
+  height: 387px;
+  position: relative;
+  border-color: transparent;
+  margin-bottom: 0px;
+}
+.upload-game-text22 {
+  color: rgba(193, 193, 193, 1);
+  width: 355px;
+  height: auto;
+  font-size: 17px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.upload-game-frame21 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 0px;
+  flex-direction: column;
+  justify-content: center;
+}
+.upload-game-text24 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: -32px;
+  text-decoration: none;
+}
+.upload-game-text26 {
+  color: rgba(193, 193, 193, 1);
+  width: 355px;
+  height: auto;
+  font-size: 17px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: -32px;
+  text-decoration: none;
+}
+.upload-game-frame491 {
+  width: 214px;
+  height: 74px;
+  display: flex;
+  padding: 10px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: rgba(225, 53, 54, 1);
+}
+.upload-game-text28 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 19px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.upload-game-frame22 {
+  display: flex;
+  padding: 29px 0 0 0;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.upload-game-text30 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 12px;
+  text-decoration: none;
+}
+.upload-game-rectangle14 {
+  width: 410px;
+  height: 64px;
+  position: relative;
+  border-color: transparent;
+  margin-bottom: 12px;
+}
+.upload-game-text32 {
+  color: rgba(193, 193, 193, 1);
+  width: 347px;
+  height: auto;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
